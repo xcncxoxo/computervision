@@ -1,2 +1,2 @@
 # computervision
-Repositorio para vición por computadora
+Repositorio para visión por computadora
